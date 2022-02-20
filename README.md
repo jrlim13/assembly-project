@@ -1,4 +1,4 @@
-# assembly-project
+# Assembly Project
 Project in Assembly class. Compiled using TASM.
 
 ## Instructions

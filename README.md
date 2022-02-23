@@ -1,5 +1,5 @@
 # Assembly Project
-Project in Assembly class. Compiled using TASM.
+Project in Assembly class in 2nd year of university. Compiled using TASM.
 
 ## Instructions
 1. Download and install [DOSbox](https://www.dosbox.com/download.php?main=1)
